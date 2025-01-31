@@ -4,6 +4,10 @@
 ## stage 1
 ### foundation / core
 
-### discrete mathematics
-- Discrete Mathematics and Its Applications
+### introduction to computers
+- [x] Code: The Hidden Language of Computer Hardware and Software
+  - by Charles Petzold
+
+#### discrete mathematics
+- [ ] Discrete Mathematics and Its Applications
   - by Kenneth H. Rosen
